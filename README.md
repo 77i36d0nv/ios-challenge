@@ -4,6 +4,7 @@ Desafio
 
 
 O objetivo é implementar um app onde podemos ver a lista de personagens da Marvel.
+
 •    O app deve mostrar uma lista e ser possível navegar para os detalhes de cada personagem.
 
 •    Além disso, o personagem poderá ser favoritado tanto na lista quanto na tela de detalhes.
